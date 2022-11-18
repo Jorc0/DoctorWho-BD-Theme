@@ -4,6 +4,7 @@ Doctor Who BetterDiscord theme, free to modify.
 I am not a professional on the matter, i just wanted to make this theme for my personal use, but i also share it in case anyone likes it.
 If you modify it let me know, i may like and use it also :)
 
+Jorc0#8300
 
 All rights belong to their respective owners BBC© and ClearVision Team
 
